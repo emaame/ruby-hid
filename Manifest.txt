@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README
+Rakefile
+lib/hid.so
+lib/wiimote.rb
+test/test_ruby-hid.rb
